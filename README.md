@@ -23,16 +23,6 @@ This portfolio contains all my semester projects, internships, and self-learned 
 
 ---
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| PARP Protein Residue Analysis (Pharmacoinformatics Final Project) | Identified key drug-binding residues and analyzed inter-domain communication using Python post-simulation analysis, providing insights for cancer-targeted therapeutics. |
-| Rheumatoid Arthritis Biomarker Identification (Bioinformatics Computing II Final Project) | Developed a Streamlit web app that preprocesses RNA-Seq data, performs statistical analysis, and highlights potential RA biomarkers for clinical research. |
-| Lung Cancer Prediction using MLP | Built a multilayer perceptron (MLP) model to predict lung cancer outcomes from clinical and genomic data, with evaluation of model performance and visualization of results. |
-
----
-
 ## Future Plans
 
 - Develop and optimize **AI-driven bioinformatics pipelines** for large-scale genomic and metagenomic datasets.  
